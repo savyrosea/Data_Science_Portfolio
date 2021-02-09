@@ -1,8 +1,7 @@
 # [Project 1: Art Museum Inventory Analysis](https://github.com/savyrosea/Art_Museum_Inventory_Project)
-- something i did
-- something else i did 
-- something else i did 
-- something else i did 
+- Created a dashboard to provide a snapshot of the artists represented in the museum
+- Used time series analysis to visualize how art acquisition has changed over time
+- Used text mining (UMAP dimensionality reduction) to identify similar artworks by analyzing medium descriptions
 
 <p float="left">
   <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/wordcloud1.PNG" width="800" />
@@ -13,10 +12,9 @@
 </p>
 
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
-- something i did
-- something else i did 
-- something else i did 
-- something else i did 
+- Used binary classification to predict whether an employee would be retained for the following work year
+- Analyzed variables to determine which would be most important in my models
+- Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
 
 <p float="left">
   <img src="https://github.com/savyrosea/Human_Resources_Employee_Retention/blob/main/pictures/heatmap.PNG" width="330" />
@@ -24,10 +22,9 @@
 </p>
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
-- something i did
-- something else i did 
-- something else i did 
-- something else i did 
+- a
+- a
+- a
 
 <p float="left">
   <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="380" />
@@ -37,17 +34,14 @@
 ![](https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG)
 
 # [Project 4: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
-- something i did
-- something else i did 
-- something else i did 
-- something else i did 
+- Geospatial analysis of TN historical seismic activity to determine what regions to allocate earthquake relief funds
+- Hands-on experience applying skills in cleaning and aggregating data from multiple sources (including webscraping)
 
 ![](https://github.com/savyrosea/Tennessee_Earthquakes/blob/main/pictures/Capture.PNG)
 
 # [Project 5: Job Scheduling for Large Computing Cluster](https://github.com/savyrosea/Large_Computing_Cluster_Job_Scheduling)
-- something i did
-- something else i did 
-- something else i did 
-- something else i did 
+- Assisted in job scheduling for a large computing cluster
+- Identified commonly failing nodes for company to examine for repairs
+- Presented findings to stakeholder using visualizations and storytelling
 
 
