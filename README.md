@@ -32,9 +32,11 @@
 - something else i did 
 
 <p float="left">
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="300" />
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG" width="500" />
+  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="380" />
+  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/zoomed.PNG" width="450" />
 </p>
+
+![](https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG)
 
 # [Project 4: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
 - something i did
