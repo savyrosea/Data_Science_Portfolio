@@ -11,7 +11,7 @@
 </p>
 
 <p float="left">
-  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter2.PNG" width="760" />
+  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter2.PNG" width="800" />
 </p>
 
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
