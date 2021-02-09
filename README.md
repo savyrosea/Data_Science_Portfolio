@@ -22,9 +22,10 @@
 </p>
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
-- a
-- a
-- a
+- Examined when and where Covid-19 Violations are occuring in Nashville
+- Mapped coordinates and tags to addresses and businesses using Geocodio and FuzzyWuzzy
+- Examined connections between the reported COVID violations and subsequent COVID clusters
+- Explored the types of businesses that have been reported as well as how business behavor has changed after an outbreak
 
 <p float="left">
   <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="380" />
