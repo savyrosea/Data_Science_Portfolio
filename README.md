@@ -1,5 +1,3 @@
-# Savannah Sew-Hee Portfolio
-
 # [Project 1: Art Museum Inventory Analysis](https://github.com/savyrosea/Art_Museum_Inventory_Project)
 - something i did
 - something else i did 
