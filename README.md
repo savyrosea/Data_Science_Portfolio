@@ -32,8 +32,8 @@
 - something else i did 
 
 <p float="left">
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="290" />
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG" width="600" />
+  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="220" />
+  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG" width="610" />
 </p>
 
 # [Project 4: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
