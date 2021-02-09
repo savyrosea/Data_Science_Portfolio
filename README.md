@@ -7,7 +7,7 @@
 - something else i did 
 
 <p float="left">
-  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/wordcloud1.PNG" width="700" />
+  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/wordcloud1.PNG" width="800" />
 </p>
 
 <p float="left">
