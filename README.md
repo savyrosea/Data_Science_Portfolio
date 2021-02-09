@@ -11,8 +11,6 @@
   <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter2.PNG" width="800" />
 </p>
 
-https://raw.githubusercontent.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter2.PNG
-
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
 - Used binary classification to predict whether an employee would be retained for the following work year
 - Analyzed variables to determine which would be most important in my models
