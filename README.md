@@ -4,11 +4,11 @@
 - Used text mining (UMAP dimensionality reduction) to identify similar artworks by analyzing medium descriptions
 
 <p float="left">
-  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/wordcloud1.PNG" width="800" />
+  <img src="https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/wordcloud1.PNG" width="800" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter2.PNG" width="800" />
+  <img src="https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/scatter2.PNG" width="800" />
 </p>
 
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
@@ -17,8 +17,8 @@
 - Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
 
 <p float="left">
-  <img src="https://github.com/savyrosea/Human_Resources_Employee_Retention/blob/main/pictures/heatmap.PNG" width="330" />
-  <img src="https://github.com/savyrosea/Human_Resources_Employee_Retention/blob/main/pictures/ROC.PNG" width="430" />
+  <img src="https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/heatmap.PNG" width="330" />
+  <img src="https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/ROC.PNG" width="430" />
 </p>
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
@@ -28,8 +28,8 @@
 - Explored the types of businesses that have been reported as well as how business behavor has changed after an outbreak
 
 <p float="left">
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="380" />
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/zoomed.PNG" width="450" />
+  <img src="https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/ClusterMap.PNG" width="380" />
+  <img src="https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/zoomed.PNG" width="450" />
 </p>
 
 ![](https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG)
@@ -38,7 +38,7 @@
 - Geospatial analysis of TN historical seismic activity to determine what regions to allocate earthquake relief funds
 - Hands-on experience applying skills in cleaning and aggregating data from multiple sources (including webscraping)
 
-![](https://github.com/savyrosea/Tennessee_Earthquakes/blob/main/pictures/Capture.PNG)
+![](https://github.com/savyrosea/Savannah_Sew-Hee_Portfolio/blob/main/images/Capture.PNG)
 
 # [Project 5: Job Scheduling for Large Computing Cluster](https://github.com/savyrosea/Large_Computing_Cluster_Job_Scheduling)
 - Assisted in job scheduling for a large computing cluster
