@@ -6,8 +6,13 @@
 - something else i did 
 - something else i did 
 
-![](https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/wordcloud1.PNG)
-![](https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter1.PNG)
+<p float="left">
+  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/wordcloud1.PNG" width="430" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/savyrosea/Art_Museum_Inventory_Project/blob/main/images/scatter2.PNG" width="430" />
+</p>
 
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
 - something i did
@@ -17,7 +22,7 @@
 
 <p float="left">
   <img src="https://github.com/savyrosea/Human_Resources_Employee_Retention/blob/main/pictures/heatmap.PNG" width="330" />
-  <img src="https://github.com/savyrosea/Human_Resources_Employee_Retention/blob/main/pictures/ROC.PNG" width="330" />
+  <img src="https://github.com/savyrosea/Human_Resources_Employee_Retention/blob/main/pictures/ROC.PNG" width="430" />
 </p>
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
