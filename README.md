@@ -32,8 +32,8 @@
 - something else i did 
 
 <p float="left">
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="330" />
-  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG" width="430" />
+  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/ClusterMap.PNG" width="290" />
+  <img src="https://github.com/savyrosea/COVID19_Violations_Nashville/blob/main/pictures/heatmap.PNG" width="600" />
 </p>
 
 # [Project 4: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
@@ -42,7 +42,7 @@
 - something else i did 
 - something else i did 
 
-![](https://github.com/savyrosea/Tennessee_Earthquakes/blob/main/pictures/Earthquakes_over_3_8.png)
+![](https://github.com/savyrosea/Tennessee_Earthquakes/blob/main/pictures/Capture.png)
 
 # [Project 5: Job Scheduling for Large Computing Cluster](https://github.com/savyrosea/Large_Computing_Cluster_Job_Scheduling)
 - something i did
