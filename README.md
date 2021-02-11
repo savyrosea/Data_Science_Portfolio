@@ -7,13 +7,12 @@
 
 ![](/images/scatter2.PNG)
 
-# [Project 2: NLP Abstractive Text Summarization with Podcast Descriptions](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project)
-- Compared PEGASUS abstractive text summerization with the abstractive text summarization in the transformers library
+# [Project 2: Abstractive Text Summarization with Podcast Descriptions](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project)
+- NLP Project where I compared PEGASUS abstractive text summerization with the abstractive text summarization in the transformers library
 - Looked at distribution in length of summary compared to length of original text as well as each summaries 
 - Identified strengths and weaknesses of each model
-![](/images/EarHustle.PNG)
 
-![](/images/Alarmist.PNG)
+![](/images/EarHustle.PNG)
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
 - Examined when and where Covid-19 Violations are occuring in Nashville
