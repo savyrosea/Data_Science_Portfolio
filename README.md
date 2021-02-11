@@ -4,6 +4,7 @@
 - Used text mining (UMAP dimensionality reduction) to identify similar artworks by analyzing medium descriptions
 
 ![](/images/wordcloud1.PNG)
+
 ![](/images/scatter2.PNG)
 
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
@@ -12,6 +13,7 @@
 - Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
 
 ![](/images/heatmap.PNG)
+
 ![](/images/ROC.PNG)
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
@@ -22,7 +24,9 @@
 
 
 ![](/images/ClusterMap.PNG)
+
 ![](/images/zoomed.PNG)
+
 ![](/images/heatmapCOVID.PNG)
 
 # [Project 4: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
