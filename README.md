@@ -3,23 +3,16 @@
 - Used time series analysis to visualize how art acquisition has changed over time
 - Used text mining (UMAP dimensionality reduction) to identify similar artworks by analyzing medium descriptions
 
-<p float="left">
-  <img src="/images/wordcloud1.PNG" width="800" />
-</p>
-
-<p float="left">
-  <img src="/images/scatter2.PNG" width="800" />
-</p>
+![](/images/wordcloud1.PNG)
+![](/images/scatter2.PNG)
 
 # [Project 2: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
 - Used binary classification to predict whether an employee would be retained for the following work year
 - Analyzed variables to determine which would be most important in my models
 - Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
 
-<p float="left">
-  <img src="/images/heatmap.PNG" width="330" />
-  <img src="/images/ROC.PNG" width="430" />
-</p>
+![](/images/heatmap.PNG)
+![](/images/ROC.PNG)
 
 # [Project 3: COVID-19 Violations in Nashville](https://github.com/savyrosea/COVID19_Violations_Nashville)
 - Examined when and where Covid-19 Violations are occuring in Nashville
@@ -27,11 +20,9 @@
 - Examined connections between the reported COVID violations and subsequent COVID clusters
 - Explored the types of businesses that have been reported as well as how business behavor has changed after an outbreak
 
-<p float="left">
-  <img src="/images/ClusterMap.PNG" width="380" />
-  <img src="/images/zoomed.PNG" width="450" />
-</p>
 
+![](/images/ClusterMap.PNG)
+![](/images/zoomed.PNG)
 ![](/images/heatmapCOVID.PNG)
 
 # [Project 4: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
