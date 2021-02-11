@@ -7,8 +7,9 @@
 
 ![](/images/scatter2.PNG)
 
-# [Project 2: Abstractive Text Summarization with Podcast Descriptions](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project)
-- NLP Project where I compared PEGASUS abstractive text summerization with the abstractive text summarization in the transformers library
+# [Project 2: Abstractive Text Summarization](https://github.com/savyrosea/Podcast_Text_Summarization_NLP_Project)
+- NLP Project comparing abstractive text summarization models using podcast descriptions
+- Compared PEGASUS abstractive text summerization with the abstractive text summarization in the transformers library
 - Looked at distribution in length of summary compared to length of original text as well as each summaries 
 - Identified strengths and weaknesses of each model
 
@@ -26,7 +27,7 @@
 
 ![](/images/heatmapCOVID.PNG)
 
-# [Project 4: Employee Retention For Human Resources](https://github.com/savyrosea/Human_Resources_Employee_Retention)
+# [Project 4: Employee Retention For HR](https://github.com/savyrosea/Human_Resources_Employee_Retention)
 - Used binary classification to predict whether an employee would be retained for the following work year
 - Analyzed variables to determine which would be most important in my models
 - Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
