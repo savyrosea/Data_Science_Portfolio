@@ -44,6 +44,7 @@
 
 # [Project 6: Job Scheduling for Large Computing Cluster](https://github.com/savyrosea/Large_Computing_Cluster_Job_Scheduling)
 - Assisted in job scheduling for a large computing cluster
+- Examined a specific account to improve their efficiency when using the computing cluster
 - Identified commonly failing nodes for company to examine for repairs
 - Presented findings to stakeholder using visualizations and storytelling
 
