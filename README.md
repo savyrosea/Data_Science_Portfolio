@@ -34,9 +34,7 @@
 - Analyzed variables to determine which would be most important in my models
 - Compared Logistic Regression and Random Forrest Models to see which provided a higher accuracy score
 
-![](/images/heatmap.PNG)
-
-![](/images/ROC.PNG)
+![](/images/hr.PNG)
 
 # [Project 5: Tennessee Earthquakes](https://github.com/savyrosea/Tennessee_Earthquakes)
 - Geospatial analysis of TN historical seismic activity to determine what regions to allocate earthquake relief funds
