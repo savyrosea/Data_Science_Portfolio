@@ -2,6 +2,8 @@
 - Created a dashboard to provide a snapshot of the artists represented in the museum
 - Used time series analysis to visualize how art acquisition has changed over time
 - Used text mining (UMAP dimensionality reduction) to identify similar artworks by analyzing medium descriptions
+- 
+![](/images/dashboard.PNG)
 
 ![](/images/wordcloud1.PNG)
 
